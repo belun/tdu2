@@ -1,0 +1,12 @@
+go to atari.com and create an user
+go ingame and create an online account named b3lun
+link this account to the one created on atari.com
+exit game
+go to C:\Users\<whateverisyouruser>\Documents\Eden Games
+(backup Eden Games somewhere)
+remove everything
+clone repo
+
+good to go
+or maybe not
+(it should look like C:\Users\<whateverisyouruser>\Documents\Eden Games\Test Drive Unlimited 2\savegame\b3lun)
